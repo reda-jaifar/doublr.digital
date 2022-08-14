@@ -1,4 +1,4 @@
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/doublr.digital" # the subpath of your site, e.g. /blog
 url: https://reda-jaifar.github.io
 
 # Build settings
