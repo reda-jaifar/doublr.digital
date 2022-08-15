@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Doublr Digital
 logo:
-author: themefisher
-description: this is meta description
+author: Reda JAIFAR
+description: Doublr Digital IT consultancy Company
 email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+phone: +33 695 780 412
+address: Rue La Fayette, 75009 Paris
+copyright: Copyright &copy; 2022 Doublr Digital
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: we help design, co-build, and deliver software that drives your next-generation digital transformation
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: design, build, and deliver your next digital systems with a trusted partner that support your business, your vision, and your teams
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -300,4 +300,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: contact@doublr.digital
