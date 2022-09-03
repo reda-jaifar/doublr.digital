@@ -149,23 +149,24 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      name: Development,
+      icon: ti-layout-slider,
+      description: "develop and build reliable software and apps with future-proof technologies that fit your business requirements.",
+      active: true # Add true to select section
     }
   - {
       name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      icon: ti-layout-column4-alt,
+      description: "Using the latest techniques in UX and UI, we co-create with you and your users a fancy application usage experiences",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      name: Integration,
+      icon: ti-layout-grid3,
+      description: "Let your systems and those of your partners connect and cooperate to deliver highly robust services.",
+      active: true # Add true to select section
     }
+
 
 #-------------------------------
 # Portfolio (Section and Page)
